@@ -34,3 +34,6 @@ An interactive app built with Python and Tkinter which can represent how commonl
 ```bash
 git clone https://github.com/rilk-byte/pathfinding-visualizer.git
 
+## Demo
+
+![Demo](screenshot.png)
